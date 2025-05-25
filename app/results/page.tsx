@@ -472,7 +472,11 @@ export default function ResultsPage() {
         <div className="text-center mt-6 text-sm text-rose-600 dark:text-rose-400">
           <p>*This is a satirical tool and not meant to be taken seriously.</p>
           <p>Real relationships are based on compatibility, respect, and love.</p>
-          <p className="mt-4 text-xs">© Dev Sarthak and owned by CopConnectX</p>
+          <p className="mt-4 text-xs"> © Developed By{" "}
+            <a href="https://www.linkedin.com/in/sarthak-kumar-thakur-097498231/" className="underline">
+              Sarthak Kumar Thakur
+            </a>{" "}
+            and owned by CopConnectX</p>
         </div>
       </div>
     </main>
